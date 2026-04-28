@@ -1,7 +1,7 @@
 <h1 align="center">𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 💸</h1>
 <p align="center">
   <img src="piva-bl7.jpg" width="300" alt="PIVA BL7">
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&lines=PIVA+BL7+Semiconductor+Radiator &typeSpeed=40&deleteSpeed=20&delay=2000&loop=true&cursor=true" alt="PIVA BL7">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Russo+One&color=%230B80F7&center=true&vCenter=true&lines=PIVA+BL7+Semiconductor+Radiator &typeSpeed=40&deleteSpeed=20&pause=6666&loop=true&cursor=true" alt="PIVA BL7">
 </p>
 
 > **Harga:** Rp500.000 | Nepis?, boleh👌🏻  
