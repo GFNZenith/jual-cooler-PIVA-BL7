@@ -19,7 +19,7 @@
 - **Special Shaped Cooling Surface**  
   Area pad pendingin lebih luas, ngecover sampai samping kamera
 - **RGB Lighting**  
-  Tombol khusus buat ganti mode lampu
+  Tombol khusus untuk mematikan lampu RGB  
 - **Tombol Power**  
   Untuk On/Off dan ganti mode pendinginan
 - **Super Compatibility**  
