@@ -1,4 +1,4 @@
-<h1 align="center">𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 💸</h1>
+<h1 align="center"><img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 💸</h1>
 <p align="center">
   <img src="piva-bl7.jpg" width="300" alt="PIVA BL7">
   <img src="http://readme-typing-svg.herokuapp.com?font=Russo+One&color=%230B80F7&center=true&vCenter=true&lines=PIVA+BL7+Semiconductor+Radiator &typeSpeed=40&deleteSpeed=20&pause=6666&loop=true&cursor=true" alt="PIVA BL7">
@@ -46,18 +46,6 @@ Pemakaian pribadi.
 
 ---
 
-<details>
-  <summary><img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <b>ORDER SEKARANG !</b></summary>
-  <br>
-  
-  **Silahkan hubungi admin:**  
-  **Telegram:** <a href="">Click</a>   
-  **Instagram:** <a href="">Click</a>  
-  **WhatsApp:** <a href="https://wa.me/62882009645268">Click</a>
-
-</details>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
 <img src="logo.gif" width="100" height="100" alt="Zeyn Official">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1&pause=99999&color=FF0000&center=true&vCenter=true&width=400&lines=Zeyn+Official" alt="Zeyn Official"> Lumajang, Jawa Timur
@@ -68,3 +56,7 @@ Pemakaian pribadi.
   <a href="https://www.instagram.com/stars_fov?igsh=MXFpem8wcjFxZGF6aQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"></a>
   <a href="https://t.me/ehgx_1"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square"></a>
 </p>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)](#table-of-contents)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)](#table-of-contents)
