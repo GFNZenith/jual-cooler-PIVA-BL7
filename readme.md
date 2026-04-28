@@ -51,7 +51,7 @@ Pemakaian pribadi.
   <summary><b>📲 CONTACT ADMIN</b></summary>
   <br>
   
-  **IG:** @username_ig_kamu  
+  **IG:** <a href="https://www.instagram.com/stars_fov?igsh=MXFpem8wcjFxZGF6aQ==">Dm Instagram</a>  
   **TT:** <a href="https://www.tiktok.com/@alfhjdn?_r=1&_t=ZS-95uGmBd1An6">Dm TikTok</a>   
   **WA:** <a href="https://wa.me/62882009645268">Chat WhatsApp</a>
 
