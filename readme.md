@@ -47,7 +47,7 @@ Pemakaian pribadi.
 ---
 
 <details>
-  <summary><b><img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Order Sekarang !</b></summary>
+  <summary><img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <b>ORDER SEKARANG !</b></summary>
   <br>
   
   **Silahkan hubungi admin:**  
