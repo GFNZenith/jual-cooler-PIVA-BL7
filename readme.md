@@ -52,3 +52,4 @@ No minus, no lecet, no dent. Fungsi 100% normal, 3 mode jalan semua, RGB nyala. 
 
 **Lokasi:** Lumajang, Jatim    
 **Contact:** [WhatsApp](https://wa.me/62xxxxxxxxxx)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
