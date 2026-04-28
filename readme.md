@@ -49,10 +49,10 @@ Pemakaian pribadi.
 <details>
   <summary><b><img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>CONTACT ADMIN </b></summary>
   <br>
-  
-  **IG:** <a href="https://www.instagram.com/stars_fov?igsh=MXFpem8wcjFxZGF6aQ==">Dm Instagram</a>  
-  **TT:** <a href="https://www.tiktok.com/@alfhjdn?_r=1&_t=ZS-95uGmBd1An6">Dm TikTok</a>   
-  **WA:** <a href="https://wa.me/62882009645268">Chat WhatsApp</a>
+
+  **Telegram:** <a href="https://t.me/ehgx_1">Click</a>   
+  **Instagram:** <a href="https://www.instagram.com/stars_fov?igsh=MXFpem8wcjFxZGF6aQ==">Click</a>  
+  **WhatsApp:** <a href="https://wa.me/62882009645268">Click</a>
 
 </details>
 
