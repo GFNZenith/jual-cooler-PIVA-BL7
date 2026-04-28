@@ -4,7 +4,7 @@
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&lines=PIVA+BL7+Semiconductor+Radiator &typeSpeed=40&deleteSpeed=20&delay=2000&loop=true&cursor=true" alt="PIVA BL7">
 </p>
 
-> **Harga:** Rp500.000 | Nego tipis  
+> **Harga:** Rp500.000 | Nepis?, boleh👌🏻  
 > **Kondisi:** No minus, mulus 99%, like new
 
 ---
