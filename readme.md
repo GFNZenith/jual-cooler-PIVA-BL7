@@ -57,5 +57,7 @@ Pemakaian pribadi.
 
 </details>
 
-**Lokasi:** Lumajang, Jawa Timur    
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<p align="center">Lumajang, Jawa Timur
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1&pause=99999&color=FF0000&center=true&vCenter=true&width=400&lines=Zeyn+Official" alt="Zeyn Official">
+</p>
