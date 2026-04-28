@@ -52,7 +52,7 @@ Pemakaian pribadi.
   <br>
   
   **IG:** @username_ig_kamu  
-  **TT:** @username_tiktok_kamu  
+  **TT:** <a href="https://www.tiktok.com/@alfhjdn?_r=1&_t=ZS-95uGmBd1An6">Dm TikTok</a>   
   **WA:** <a href="https://wa.me/62882009645268">Chat WhatsApp</a>
 
 </details>
