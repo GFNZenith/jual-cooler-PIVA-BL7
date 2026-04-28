@@ -47,7 +47,7 @@ Pemakaian pribadi.
 ---
 
 <details>
-  <summary><b>👤 CONTACT ADMIN</b></summary>
+  <summary><b><img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>CONTACT ADMIN </b></summary>
   <br>
   
   **IG:** <a href="https://www.instagram.com/stars_fov?igsh=MXFpem8wcjFxZGF6aQ==">Dm Instagram</a>  
