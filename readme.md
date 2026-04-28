@@ -1,6 +1,12 @@
-# FOR SALE - PHONE COOLER PIVA BL7
+<h1 align="center">𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 ✅</h1>
+<br>
+<p align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&lines=PIVA+BL7+Semiconductor+Radiator &typeSpeed=40&deleteSpeed=20&delay=2000&loop=true&cursor=true" alt="PIVA BL7">
+</p>
 
-![PIVA BL7 Fullset](piva-bl7.jpg)
+<p align="center">
+  <img src="piva-bl7.jpg" width="300" alt="PIVA BL7">
+</p>
 
 > **Harga:** Rp500.000 | Nego tipis  
 > **Kondisi:** No minus, mulus 99%, like new  
