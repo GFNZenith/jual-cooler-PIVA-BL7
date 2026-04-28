@@ -1,11 +1,7 @@
 <h1 align="center">𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 💸</h1>
-<br>
-<p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&lines=PIVA+BL7+Semiconductor+Radiator &typeSpeed=40&deleteSpeed=20&delay=2000&loop=true&cursor=true" alt="PIVA BL7">
-</p>
-
 <p align="center">
   <img src="piva-bl7.jpg" width="300" alt="PIVA BL7">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&lines=PIVA+BL7+Semiconductor+Radiator &typeSpeed=40&deleteSpeed=20&delay=2000&loop=true&cursor=true" alt="PIVA BL7">
 </p>
 
 > **Harga:** Rp500.000 | Nego tipis  
@@ -45,13 +41,14 @@
 - Kartu Quality Control + Manual
 
 ## ✅ Kondisi Barang
-No minus, no lecet, no dent. Fungsi 100% normal, 3 mode jalan semua, RGB nyala. Pemakaian pribadi.  
+No minus, no lecet, no dent. Fungsi 100% normal, 3 mode jalan semua, RGB nyala.  
+Pemakaian pribadi.  
 **Alasan jual:** Udah ga ngegame.
 
 ---
 
 <details>
-  <summary><b>📲 Order / Info Lebih Lanjut Contact Admin</b></summary>
+  <summary><b>📲 CONTACT ADMIN</b></summary>
   <br>
   
   **IG:** @username_ig_kamu  
@@ -60,5 +57,5 @@ No minus, no lecet, no dent. Fungsi 100% normal, 3 mode jalan semua, RGB nyala. 
 
 </details>
 
-**Lokasi:** Lumajang, Jatim    
+**Lokasi:** Lumajang, Jawa Timur    
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
