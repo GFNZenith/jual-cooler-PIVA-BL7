@@ -51,8 +51,8 @@ Pemakaian pribadi.
   <br>
   
   **Silahkan hubungi admin:**  
-  **Telegram:** <a href="https://t.me/ehgx_1">Click</a>   
-  **Instagram:** <a href="https://www.instagram.com/stars_fov?igsh=MXFpem8wcjFxZGF6aQ==">Click</a>  
+  **Telegram:** <a href="">Click</a>   
+  **Instagram:** <a href="">Click</a>  
   **WhatsApp:** <a href="https://wa.me/62882009645268">Click</a>
 
 </details>
@@ -61,4 +61,10 @@ Pemakaian pribadi.
 <p align="center">
 <img src="logo.gif" width="100" height="100" alt="Zeyn Official">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1&pause=99999&color=FF0000&center=true&vCenter=true&width=400&lines=Zeyn+Official" alt="Zeyn Official"> Lumajang, Jawa Timur
+</p>
+
+<p align="center">
+  <a href="https://wa.me/62882009645268"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square"></a>
+  <a href="https://www.instagram.com/stars_fov?igsh=MXFpem8wcjFxZGF6aQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"></a>
+  <a href="https://t.me/ehgx_1"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square"></a>
 </p>
