@@ -5,8 +5,7 @@
 </p>
 
 > **Harga:** Rp500.000 | Nego tipis  
-> **Kondisi:** No minus, mulus 99%, like new  
-> **Status:** READY STOCK
+> **Kondisi:** No minus, mulus 99%, like new
 
 ---
 
