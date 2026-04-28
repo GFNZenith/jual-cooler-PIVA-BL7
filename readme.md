@@ -48,9 +48,6 @@
 No minus, no lecet, no dent. Fungsi 100% normal, 3 mode jalan semua, RGB nyala. Pemakaian pribadi.  
 **Alasan jual:** Udah ga ngegame.
 
-## 🎮 Cocok Buat
-Main Genshin, PUBG, MLBB, CODM rata kanan anti frame drop. Live streaming aman ga overheat.
-
 ---
 
 **Lokasi:** Lumajang, Jatim    
