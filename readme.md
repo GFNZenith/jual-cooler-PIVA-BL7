@@ -47,5 +47,5 @@ Main Genshin, PUBG, MLBB, CODM rata kanan anti frame drop. Live streaming aman g
 
 ---
 
-**Lokasi:** Lumajang, Jatim
+**Lokasi:** Lumajang, Jatim    
 **Contact:** [WhatsApp](https://wa.me/62xxxxxxxxxx)
