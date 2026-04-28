@@ -50,6 +50,15 @@ No minus, no lecet, no dent. Fungsi 100% normal, 3 mode jalan semua, RGB nyala. 
 
 ---
 
+<details>
+  <summary><b>📲 Order / Info Lebih Lanjut Contact Admin</b></summary>
+  <br>
+  
+  **IG:** @username_ig_kamu  
+  **TT:** @username_tiktok_kamu  
+  **WA:** <a href="https://wa.me/62882009645268">Chat WhatsApp</a>
+
+</details>
+
 **Lokasi:** Lumajang, Jatim    
-**Contact:** [WhatsApp](https://wa.me/62xxxxxxxxxx)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
