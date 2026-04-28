@@ -47,9 +47,10 @@ Pemakaian pribadi.
 ---
 
 <details>
-  <summary><b><img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>CONTACT ADMIN </b></summary>
+  <summary><b><img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Order Sekarang !</b></summary>
   <br>
-
+  
+  **Silahkan hubungi admin:**  
   **Telegram:** <a href="https://t.me/ehgx_1">Click</a>   
   **Instagram:** <a href="https://www.instagram.com/stars_fov?igsh=MXFpem8wcjFxZGF6aQ==">Click</a>  
   **WhatsApp:** <a href="https://wa.me/62882009645268">Click</a>
