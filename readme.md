@@ -57,5 +57,6 @@ Pemakaian pribadi.
   <a href="https://www.instagram.com/stars_fov?igsh=MXFpem8wcjFxZGF6aQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"></a>
   <a href="https://t.me/ehgx_1"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square"></a>
 </p>
+<p align="center"><a href="https://github.com/GFNZenith/jual-cooler-PIVA-BL7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GFNZenith/jual-cooler-PIVA-BL7?label=Wachers&color=grey&style=flat-square"></a></p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)](#table-of-contents)
