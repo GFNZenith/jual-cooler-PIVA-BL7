@@ -4,7 +4,7 @@
   <img src="http://readme-typing-svg.herokuapp.com?font=Russo+One&color=%230B80F7&center=true&vCenter=true&lines=PIVA+BL7+Semiconductor+Radiator &typeSpeed=40&deleteSpeed=20&pause=6666&loop=true&cursor=true" alt="PIVA BL7">
 </p>
 
-> **Harga:** Rp500.000 | Nepis?, boleh👌🏻&nbsp;&nbsp;<a href="#contact"><img src="https://img.shields.io/badge/Buy%20-25D366?style=flat&logo=shopify&logoColor=white" align="absbottom"></a>  
+> **Harga:** `Rp500.000`  Nepis?, boleh👌🏻&nbsp;&nbsp;<a href="#contact"><img src="https://img.shields.io/badge/Buy%20-25D366?style=flat&logo=shopify&logoColor=white" align="absbottom"></a>  
 > **Kondisi:** No minus, mulus 99%, like new
 
 ---
